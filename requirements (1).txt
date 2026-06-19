@@ -1,0 +1,6 @@
+# Requirements for Cryptography Project
+
+streamlit
+pandas
+plotly
+fpdf2
